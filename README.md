@@ -1,4 +1,4 @@
 # git-practice
 update
 update2
-changed on github
+update on conflict-remote branch
